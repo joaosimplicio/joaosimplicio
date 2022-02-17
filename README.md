@@ -1,7 +1,7 @@
 Olá!! Meu nome é João Victor, tenho 21 anos e sou de Brasília-DF.
 
 - 🔭 Atualmente buscando uma oportunidade de emprego como Desenvolvedor Front-end Junior / Trainee / Estágio.
-- 🌱 No momento estou aprendendo as linguagens/libs JavaScript e React.JS
+- 🌱 No momento estou aprendendo a linguagem JavaScript e o pré-processador SASS.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
