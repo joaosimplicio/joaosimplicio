@@ -1,4 +1,4 @@
-Olá!! Meu nome é João Victor, tenho 21 anos e sou de Brasília-DF.
+Olá!! Meu nome é João Victor, tenho 22 anos e sou de Brasília-DF.
 
 - 🔭 Atualmente buscando uma oportunidade de trabalho como Desenvolvedor Junior ou Trainee.
 - 🌱 Focado no React-Native.
